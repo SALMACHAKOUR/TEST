@@ -1,0 +1,27 @@
+.shop .category {
+    padding: 30px;
+    height: 90vh;
+}
+.chead h1{
+    font-style: 20px;
+    margin-bottom: 20px;
+}
+.chead h1:nth-child(2){
+    opacity:0.5 ;
+    border-left: 3px solid rgba(0, 0, 0, 0.5);
+    padding-left: 70px;
+}
+.shop .category .box {
+    border-color: #f6f9f6;
+    margin: 15px 0;
+    transform:0.5s ;
+    background-repeat: 5px;
+}
+.shop .category img{
+    width: auto;
+    width: auto;
+}
+..shop .category .box:hover{
+    background-color: #fff;
+    box-shadow: rgb(43, 52, 69 /10);
+}
